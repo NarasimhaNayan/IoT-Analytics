@@ -27,4 +27,4 @@ Each project folder contains the following:
 To get started with these projects, clone this repository using:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/NarasimhaNayan/IoT-Analytics.git
